@@ -43,4 +43,4 @@ Por padrão o ReactJS é executado na porta 3000, porém, dentro do arquivo pack
 OBS: O JSON server e o projeto em ReactJS devem ser executados simultaneamente. 
 
 ## Intuito do Projeto
-Construir uma aplicação com 3 passos, onde sera possível selecionar a Massa da pizza, tamanho e sabor. Caso o usuário optasse por adquirir a pizza de sugestão da casa, esse ganharia pontos extras. Todos os dados como massas, tamanhos, sabores e sugestão deveriam ser providos de um backend, onde não era necessário implementar regras de negócio e poderiam ser utilizados dados Mock, como foi o caso com o JSON server.
+Construir uma aplicação com 3 passos, onde seria possível selecionar a Massa da pizza, tamanho e sabor. Caso o usuário optasse por adquirir a pizza de sugestão da casa, esse ganharia pontos extras. Todos os dados como massas, tamanhos, sabores e sugestão deveriam ser providos de um backend, onde não era necessário implementar regras de negócio e poderiam ser utilizados dados Mock, como foi o caso com o JSON server.
