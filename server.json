@@ -1,0 +1,68 @@
+{
+  "pizzas": [
+    {
+      "id": 1,
+      "flavor": "Calabresa",
+      "priceBrotinho": 20.99,
+      "priceMedia": 30.99,
+      "priceFamilia": 40.99
+    },
+    {
+      "id": 2,
+      "flavor": "Portuguesa",
+      "priceBrotinho": 22.99,
+      "priceMedia": 32.99,
+      "priceFamilia": 42.99
+    },
+    {
+      "id": 3,
+      "flavor": "4 Queijos",
+      "priceBrotinho": 24.99,
+      "priceMedia": 34.99,
+      "priceFamilia": 42.99
+    },
+    {
+      "id": 4,
+      "flavor": "Baiana",
+      "priceBrotinho": 27.99,
+      "priceMedia": 37.99,
+      "priceFamilia": 47.99
+    },
+    {
+      "id": 5,
+      "flavor": "A Moda",
+      "priceBrotinho": 29.99,
+      "priceMedia": 39.99,
+      "priceFamilia": 49.99
+    }
+  ],
+  "pizzaRecommendation": {
+    "id": 1,
+    "flavor": "mussarela",
+    "priceBrotinho": 18.99,
+    "priceMedia": 28.99,
+    "priceFamilia": 38.99
+  },
+  "pizzaSizes": [
+    {
+      "id": 1,
+      "pizzaSize": "Brotinho"
+    },
+    {
+      "id": 2,
+      "pizzaSize": "Média"
+    },
+    {
+      "id": 3,
+      "pizzaSize": "Familia"
+    }
+  ],
+  "pastaTypes": [
+    "Fina",
+    "Média",
+    "Grossa"
+  ],
+  "userCredits": {
+    "creditsQuantity": 0
+  }
+}

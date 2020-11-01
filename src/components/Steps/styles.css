@@ -1,0 +1,85 @@
+
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #eeee;
+    background-image: url('../../assets/images/backgroud-food.png');
+    background-repeat: none;
+    background-size: cover;
+    height: 100vh;
+}
+
+.title {
+    text-align: center;
+    margin-bottom: 10px;
+    margin-right: 10px;
+}
+
+.step {
+    text-align: center;
+    margin-bottom: 20px;
+    margin-right: 10px;
+}
+
+.title-container {
+    display: flex
+}
+
+.form-container {
+    padding: 40px;
+    background: #FFF;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+}
+
+.form-category {
+    margin-bottom: 10px;;
+}
+
+.form-input {
+    margin-bottom: 10px;
+}
+
+.form-item {
+    margin-left: 10px;
+}
+
+.button-continue {
+    border-radius: 4px;
+    padding: 4px 2px;
+    cursor: pointer;
+}
+
+.button-back {
+    border-radius: 4px;
+    padding: 4px 2px;
+    cursor: pointer;
+}
+
+.button-final {
+    border-radius: 4px;
+    padding: 4px 2px;
+    cursor: pointer;
+    margin-top: 20px;
+}
+
+.final-step {
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.buttons-form {
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
